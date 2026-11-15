@@ -1,0 +1,433 @@
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: Berkas CSV [data/putusan-50.csv]: Impor selesai: 50 diterima, 0 ditolak. Total di arsip: 50
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: 1. P001 | 419/Pid.Sus/2025/PN Kpn | 2026-01-05 | Ganja | vonis 168 bln
+2. P002 | 426/Pid.Sus/2025/PN Kpn | 2026-01-05 | Sabu | vonis 72 bln
+3. P003 | 427/Pid.Sus/2025/PN Kpn | 2026-01-05 | Sabu | vonis 72 bln
+4. P004 | 478/Pid.Sus/2025/PN Kpn | 2026-01-08 | Sabu | vonis 84 bln
+5. P005 | 463/Pid.Sus/2025/PN Kpn | 2026-01-12 | Sabu | vonis 72 bln
+6. P006 | 445/Pid.Sus/2025/PN Kpn | 2026-01-13 | Ganja | vonis 72 bln
+7. P007 | 470/Pid.Sus/2025/PN Kpn | 2026-01-29 | Sabu | vonis 120 bln
+8. P008 | 490/Pid.Sus/2025/PN Kpn | 2026-02-02 | Sabu | vonis 96 bln
+9. P009 | 491/Pid.Sus/2025/PN Kpn | 2026-02-02 | Sabu | vonis 72 bln
+10. P010 | 459/Pid.Sus/2025/PN Kpn | 2026-02-10 | Sabu | vonis 84 bln
+11. P011 | 509/Pid.Sus/2025/PN Kpn | 2026-02-10 | Sabu | vonis 72 bln
+12. P012 | 464/Pid.Sus/2025/PN Kpn | 2026-02-12 | Sabu|Ganja | vonis 120 bln
+13. P013 | 520/Pid.Sus/2025/PN Kpn | 2026-02-19 | Ganja | vonis 48 bln
+14. P014 | 454/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 84 bln
+15. P015 | 455/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 84 bln
+16. P016 | 473/Pid.Sus/2025/PN Kpn | 2026-02-24 | Ganja | vonis 96 bln
+17. P017 | 518/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 96 bln
+18. P018 | 526/Pid.Sus/2025/PN Kpn | 2026-02-26 | Sabu | vonis 72 bln
+19. P019 | 507/Pid.Sus/2025/PN Kpn | 2026-03-05 | Sabu | vonis 72 bln
+20. P020 | 556/Pid.Sus/2025/PN Kpn | 2026-03-09 | Sabu | vonis 84 bln
+21. P021 | 504/Pid.Sus/2025/PN Kpn | 2026-03-10 | Sabu | vonis 108 bln
+22. P022 | 551/Pid.Sus/2025/PN Kpn | 2026-03-30 | Sabu | vonis 72 bln
+23. P023 | 14/Pid.Sus/2026/PN Kpn | 2026-04-06 | Sabu | vonis 96 bln
+24. P024 | 558/Pid.Sus/2025/PN Kpn | 2026-04-06 | Sabu | vonis 84 bln
+25. P025 | 527/Pid.Sus/2025/PN Kpn | 2026-04-07 | Sabu | vonis 96 bln
+26. P026 | 528/Pid.Sus/2025/PN Kpn | 2026-04-07 | Sabu | vonis 96 bln
+27. P027 | 22/Pid.Sus/2026/PN Kpn | 2026-04-09 | Sabu | vonis 48 bln
+28. P028 | 17/Pid.Sus/2026/PN Kpn | 2026-04-13 | Sabu | vonis 60 bln
+29. P029 | 557/Pid.Sus/2025/PN Kpn | 2026-04-13 | Sabu|Ekstasi | vonis 72 bln
+30. P030 | 48/Pid.Sus/2026/PN Kpn | 2026-04-16 | Sabu | vonis 72 bln
+31. P031 | 513/Pid.Sus/2025/PN Kpn | 2026-04-16 | Sabu|Ekstasi | vonis 60 bln
+32. P032 | 144/Pid.Sus/2026/PN Kpn | 2026-07-27 | Sabu | vonis 36 bln
+33. P033 | 162/Pid.Sus/2026/PN Kpn | 2026-07-27 | Sabu | vonis 48 bln
+34. P034 | 138/Pid.Sus/2026/PN Kpn | 2026-07-28 | Sabu | vonis 36 bln
+35. P035 | 139/Pid.Sus/2026/PN Kpn | 2026-07-28 | Sabu | vonis 48 bln
+36. P036 | 126/Pid.Sus/2026/PN Kpn | 2026-07-30 | Sabu | vonis 36 bln
+37. P037 | 133/Pid.Sus/2026/PN Kpn | 2026-08-04 | Sabu | vonis 60 bln
+38. P038 | 145/Pid.Sus/2026/PN Kpn | 2026-08-10 | Sabu | vonis 48 bln
+39. P039 | 132/Pid.Sus/2026/PN Kpn | 2026-08-11 | Sabu | vonis 48 bln
+40. P040 | 110/Pid.Sus/2026/PN Kpn | 2026-08-18 | Sabu | vonis 60 bln
+41. P041 | 116/Pid.Sus/2026/PN Kpn | 2026-08-18 | Sabu | vonis 96 bln
+42. P042 | 146/Pid.Sus/2026/PN Kpn | 2026-08-20 | Sabu | vonis 48 bln
+43. P043 | 194/Pid.Sus/2026/PN Kpn | 2026-08-20 | Sabu | vonis 36 bln
+44. P044 | 140/Pid.Sus/2026/PN Kpn | 2026-08-24 | Sabu | vonis 60 bln
+45. P045 | 182/Pid.Sus/2026/PN Kpn | 2026-08-24 | Sabu | vonis 48 bln
+46. P046 | 201/Pid.Sus/2026/PN Kpn | 2026-08-24 | Sabu | vonis 36 bln
+47. P047 | 156/Pid.Sus/2026/PN Kpn | 2026-09-01 | Sabu | vonis 36 bln
+48. P048 | 185/Pid.Sus/2026/PN Kpn | 2026-09-01 | Sabu | vonis 60 bln
+49. P049 | 164/Pid.Sus/2026/PN Kpn | 2026-09-03 | Sabu | vonis 78 bln
+50. P050 | 135/Pid.Sus/2026/PN Kpn | 2026-09-29 | Sabu | vonis 72 bln
+Jumlah: 50
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: caseId atau nomor perkara: Ditemukan di posisi 0 setelah 1 langkah: P001 | 419/Pid.Sus/2025/PN Kpn | 2026-01-05 | Ganja | vonis 168 bln
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: caseId atau nomor perkara: Ditemukan di posisi 24 setelah 25 langkah: P025 | 527/Pid.Sus/2025/PN Kpn | 2026-04-07 | Sabu | vonis 96 bln
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: caseId atau nomor perkara: Ditemukan di posisi 49 setelah 50 langkah: P050 | 135/Pid.Sus/2026/PN Kpn | 2026-09-29 | Sabu | vonis 72 bln
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: caseId atau nomor perkara: Tidak ditemukan setelah 50 langkah.
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: caseId yang dihapus: Dihapus: P001 | 419/Pid.Sus/2025/PN Kpn | 2026-01-05 | Ganja | vonis 168 bln. Total: 49
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: caseId yang dihapus: Dihapus: P025 | 527/Pid.Sus/2025/PN Kpn | 2026-04-07 | Sabu | vonis 96 bln. Total: 48
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: caseId yang dihapus: Dihapus: P050 | 135/Pid.Sus/2026/PN Kpn | 2026-09-29 | Sabu | vonis 72 bln. Total: 47
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: 1. P002 | 426/Pid.Sus/2025/PN Kpn | 2026-01-05 | Sabu | vonis 72 bln
+2. P003 | 427/Pid.Sus/2025/PN Kpn | 2026-01-05 | Sabu | vonis 72 bln
+3. P004 | 478/Pid.Sus/2025/PN Kpn | 2026-01-08 | Sabu | vonis 84 bln
+4. P005 | 463/Pid.Sus/2025/PN Kpn | 2026-01-12 | Sabu | vonis 72 bln
+5. P006 | 445/Pid.Sus/2025/PN Kpn | 2026-01-13 | Ganja | vonis 72 bln
+6. P007 | 470/Pid.Sus/2025/PN Kpn | 2026-01-29 | Sabu | vonis 120 bln
+7. P008 | 490/Pid.Sus/2025/PN Kpn | 2026-02-02 | Sabu | vonis 96 bln
+8. P009 | 491/Pid.Sus/2025/PN Kpn | 2026-02-02 | Sabu | vonis 72 bln
+9. P010 | 459/Pid.Sus/2025/PN Kpn | 2026-02-10 | Sabu | vonis 84 bln
+10. P011 | 509/Pid.Sus/2025/PN Kpn | 2026-02-10 | Sabu | vonis 72 bln
+11. P012 | 464/Pid.Sus/2025/PN Kpn | 2026-02-12 | Sabu|Ganja | vonis 120 bln
+12. P013 | 520/Pid.Sus/2025/PN Kpn | 2026-02-19 | Ganja | vonis 48 bln
+13. P014 | 454/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 84 bln
+14. P015 | 455/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 84 bln
+15. P016 | 473/Pid.Sus/2025/PN Kpn | 2026-02-24 | Ganja | vonis 96 bln
+16. P017 | 518/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 96 bln
+17. P018 | 526/Pid.Sus/2025/PN Kpn | 2026-02-26 | Sabu | vonis 72 bln
+18. P019 | 507/Pid.Sus/2025/PN Kpn | 2026-03-05 | Sabu | vonis 72 bln
+19. P020 | 556/Pid.Sus/2025/PN Kpn | 2026-03-09 | Sabu | vonis 84 bln
+20. P021 | 504/Pid.Sus/2025/PN Kpn | 2026-03-10 | Sabu | vonis 108 bln
+21. P022 | 551/Pid.Sus/2025/PN Kpn | 2026-03-30 | Sabu | vonis 72 bln
+22. P023 | 14/Pid.Sus/2026/PN Kpn | 2026-04-06 | Sabu | vonis 96 bln
+23. P024 | 558/Pid.Sus/2025/PN Kpn | 2026-04-06 | Sabu | vonis 84 bln
+24. P026 | 528/Pid.Sus/2025/PN Kpn | 2026-04-07 | Sabu | vonis 96 bln
+25. P027 | 22/Pid.Sus/2026/PN Kpn | 2026-04-09 | Sabu | vonis 48 bln
+26. P028 | 17/Pid.Sus/2026/PN Kpn | 2026-04-13 | Sabu | vonis 60 bln
+27. P029 | 557/Pid.Sus/2025/PN Kpn | 2026-04-13 | Sabu|Ekstasi | vonis 72 bln
+28. P030 | 48/Pid.Sus/2026/PN Kpn | 2026-04-16 | Sabu | vonis 72 bln
+29. P031 | 513/Pid.Sus/2025/PN Kpn | 2026-04-16 | Sabu|Ekstasi | vonis 60 bln
+30. P032 | 144/Pid.Sus/2026/PN Kpn | 2026-07-27 | Sabu | vonis 36 bln
+31. P033 | 162/Pid.Sus/2026/PN Kpn | 2026-07-27 | Sabu | vonis 48 bln
+32. P034 | 138/Pid.Sus/2026/PN Kpn | 2026-07-28 | Sabu | vonis 36 bln
+33. P035 | 139/Pid.Sus/2026/PN Kpn | 2026-07-28 | Sabu | vonis 48 bln
+34. P036 | 126/Pid.Sus/2026/PN Kpn | 2026-07-30 | Sabu | vonis 36 bln
+35. P037 | 133/Pid.Sus/2026/PN Kpn | 2026-08-04 | Sabu | vonis 60 bln
+36. P038 | 145/Pid.Sus/2026/PN Kpn | 2026-08-10 | Sabu | vonis 48 bln
+37. P039 | 132/Pid.Sus/2026/PN Kpn | 2026-08-11 | Sabu | vonis 48 bln
+38. P040 | 110/Pid.Sus/2026/PN Kpn | 2026-08-18 | Sabu | vonis 60 bln
+39. P041 | 116/Pid.Sus/2026/PN Kpn | 2026-08-18 | Sabu | vonis 96 bln
+40. P042 | 146/Pid.Sus/2026/PN Kpn | 2026-08-20 | Sabu | vonis 48 bln
+41. P043 | 194/Pid.Sus/2026/PN Kpn | 2026-08-20 | Sabu | vonis 36 bln
+42. P044 | 140/Pid.Sus/2026/PN Kpn | 2026-08-24 | Sabu | vonis 60 bln
+43. P045 | 182/Pid.Sus/2026/PN Kpn | 2026-08-24 | Sabu | vonis 48 bln
+44. P046 | 201/Pid.Sus/2026/PN Kpn | 2026-08-24 | Sabu | vonis 36 bln
+45. P047 | 156/Pid.Sus/2026/PN Kpn | 2026-09-01 | Sabu | vonis 36 bln
+46. P048 | 185/Pid.Sus/2026/PN Kpn | 2026-09-01 | Sabu | vonis 60 bln
+47. P049 | 164/Pid.Sus/2026/PN Kpn | 2026-09-03 | Sabu | vonis 78 bln
+Jumlah: 47
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: Masukkan satu baris CSV (16 kolom, urutan seperti header):
+caseId,nomorPerkara,pengadilan,tanggalPutusan,terdakwaKode,jenisNarkotika,beratBarangBuktiGram,pasalDakwaan,pasalTerbukti,tuntutanBulan,vonisBulan,dendaRupiah,barangBukti,keadaanMemberatkan,keadaanMeringankan,sourcePages
+> Ditambahkan: P101 | 101/Pid.Sus/2030/PN Kpn | 2030-01-01 | Sabu | vonis 48 bln. Total: 48
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: Masukkan satu baris CSV (16 kolom, urutan seperti header):
+caseId,nomorPerkara,pengadilan,tanggalPutusan,terdakwaKode,jenisNarkotika,beratBarangBuktiGram,pasalDakwaan,pasalTerbukti,tuntutanBulan,vonisBulan,dendaRupiah,barangBukti,keadaanMemberatkan,keadaanMeringankan,sourcePages
+> Ditambahkan: P102 | 102/Pid.Sus/2030/PN Kpn | 2030-01-01 | Sabu | vonis 60 bln. Total: 49
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: Masukkan satu baris CSV (16 kolom, urutan seperti header):
+caseId,nomorPerkara,pengadilan,tanggalPutusan,terdakwaKode,jenisNarkotika,beratBarangBuktiGram,pasalDakwaan,pasalTerbukti,tuntutanBulan,vonisBulan,dendaRupiah,barangBukti,keadaanMemberatkan,keadaanMeringankan,sourcePages
+> Ditambahkan: P103 | 103/Pid.Sus/2030/PN Kpn | 2030-01-01 | Ganja | vonis 72 bln. Total: 50
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: 1. P002 | 426/Pid.Sus/2025/PN Kpn | 2026-01-05 | Sabu | vonis 72 bln
+2. P003 | 427/Pid.Sus/2025/PN Kpn | 2026-01-05 | Sabu | vonis 72 bln
+3. P004 | 478/Pid.Sus/2025/PN Kpn | 2026-01-08 | Sabu | vonis 84 bln
+4. P005 | 463/Pid.Sus/2025/PN Kpn | 2026-01-12 | Sabu | vonis 72 bln
+5. P006 | 445/Pid.Sus/2025/PN Kpn | 2026-01-13 | Ganja | vonis 72 bln
+6. P007 | 470/Pid.Sus/2025/PN Kpn | 2026-01-29 | Sabu | vonis 120 bln
+7. P008 | 490/Pid.Sus/2025/PN Kpn | 2026-02-02 | Sabu | vonis 96 bln
+8. P009 | 491/Pid.Sus/2025/PN Kpn | 2026-02-02 | Sabu | vonis 72 bln
+9. P010 | 459/Pid.Sus/2025/PN Kpn | 2026-02-10 | Sabu | vonis 84 bln
+10. P011 | 509/Pid.Sus/2025/PN Kpn | 2026-02-10 | Sabu | vonis 72 bln
+11. P012 | 464/Pid.Sus/2025/PN Kpn | 2026-02-12 | Sabu|Ganja | vonis 120 bln
+12. P013 | 520/Pid.Sus/2025/PN Kpn | 2026-02-19 | Ganja | vonis 48 bln
+13. P014 | 454/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 84 bln
+14. P015 | 455/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 84 bln
+15. P016 | 473/Pid.Sus/2025/PN Kpn | 2026-02-24 | Ganja | vonis 96 bln
+16. P017 | 518/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 96 bln
+17. P018 | 526/Pid.Sus/2025/PN Kpn | 2026-02-26 | Sabu | vonis 72 bln
+18. P019 | 507/Pid.Sus/2025/PN Kpn | 2026-03-05 | Sabu | vonis 72 bln
+19. P020 | 556/Pid.Sus/2025/PN Kpn | 2026-03-09 | Sabu | vonis 84 bln
+20. P021 | 504/Pid.Sus/2025/PN Kpn | 2026-03-10 | Sabu | vonis 108 bln
+21. P022 | 551/Pid.Sus/2025/PN Kpn | 2026-03-30 | Sabu | vonis 72 bln
+22. P023 | 14/Pid.Sus/2026/PN Kpn | 2026-04-06 | Sabu | vonis 96 bln
+23. P024 | 558/Pid.Sus/2025/PN Kpn | 2026-04-06 | Sabu | vonis 84 bln
+24. P026 | 528/Pid.Sus/2025/PN Kpn | 2026-04-07 | Sabu | vonis 96 bln
+25. P027 | 22/Pid.Sus/2026/PN Kpn | 2026-04-09 | Sabu | vonis 48 bln
+26. P028 | 17/Pid.Sus/2026/PN Kpn | 2026-04-13 | Sabu | vonis 60 bln
+27. P029 | 557/Pid.Sus/2025/PN Kpn | 2026-04-13 | Sabu|Ekstasi | vonis 72 bln
+28. P030 | 48/Pid.Sus/2026/PN Kpn | 2026-04-16 | Sabu | vonis 72 bln
+29. P031 | 513/Pid.Sus/2025/PN Kpn | 2026-04-16 | Sabu|Ekstasi | vonis 60 bln
+30. P032 | 144/Pid.Sus/2026/PN Kpn | 2026-07-27 | Sabu | vonis 36 bln
+31. P033 | 162/Pid.Sus/2026/PN Kpn | 2026-07-27 | Sabu | vonis 48 bln
+32. P034 | 138/Pid.Sus/2026/PN Kpn | 2026-07-28 | Sabu | vonis 36 bln
+33. P035 | 139/Pid.Sus/2026/PN Kpn | 2026-07-28 | Sabu | vonis 48 bln
+34. P036 | 126/Pid.Sus/2026/PN Kpn | 2026-07-30 | Sabu | vonis 36 bln
+35. P037 | 133/Pid.Sus/2026/PN Kpn | 2026-08-04 | Sabu | vonis 60 bln
+36. P038 | 145/Pid.Sus/2026/PN Kpn | 2026-08-10 | Sabu | vonis 48 bln
+37. P039 | 132/Pid.Sus/2026/PN Kpn | 2026-08-11 | Sabu | vonis 48 bln
+38. P040 | 110/Pid.Sus/2026/PN Kpn | 2026-08-18 | Sabu | vonis 60 bln
+39. P041 | 116/Pid.Sus/2026/PN Kpn | 2026-08-18 | Sabu | vonis 96 bln
+40. P042 | 146/Pid.Sus/2026/PN Kpn | 2026-08-20 | Sabu | vonis 48 bln
+41. P043 | 194/Pid.Sus/2026/PN Kpn | 2026-08-20 | Sabu | vonis 36 bln
+42. P044 | 140/Pid.Sus/2026/PN Kpn | 2026-08-24 | Sabu | vonis 60 bln
+43. P045 | 182/Pid.Sus/2026/PN Kpn | 2026-08-24 | Sabu | vonis 48 bln
+44. P046 | 201/Pid.Sus/2026/PN Kpn | 2026-08-24 | Sabu | vonis 36 bln
+45. P047 | 156/Pid.Sus/2026/PN Kpn | 2026-09-01 | Sabu | vonis 36 bln
+46. P048 | 185/Pid.Sus/2026/PN Kpn | 2026-09-01 | Sabu | vonis 60 bln
+47. P049 | 164/Pid.Sus/2026/PN Kpn | 2026-09-03 | Sabu | vonis 78 bln
+48. P101 | 101/Pid.Sus/2030/PN Kpn | 2030-01-01 | Sabu | vonis 48 bln
+49. P102 | 102/Pid.Sus/2030/PN Kpn | 2030-01-01 | Sabu | vonis 60 bln
+50. P103 | 103/Pid.Sus/2030/PN Kpn | 2030-01-01 | Ganja | vonis 72 bln
+Jumlah: 50
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: Masukkan satu baris CSV (16 kolom, urutan seperti header):
+caseId,nomorPerkara,pengadilan,tanggalPutusan,terdakwaKode,jenisNarkotika,beratBarangBuktiGram,pasalDakwaan,pasalTerbukti,tuntutanBulan,vonisBulan,dendaRupiah,barangBukti,keadaanMemberatkan,keadaanMeringankan,sourcePages
+> Data tidak valid: Jumlah kolom 4, seharusnya 16
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: Kosongkan (Enter) untuk melewati kriteria.
+Jenis narkotika (mis. Sabu): Berat minimum gram: Berat maksimum gram: Pasal terbukti mengandung (mis. 114): Vonis minimum bulan: Vonis maksimum bulan: 1. P004 | 478/Pid.Sus/2025/PN Kpn | 2026-01-08 | Sabu | vonis 84 bln
+2. P008 | 490/Pid.Sus/2025/PN Kpn | 2026-02-02 | Sabu | vonis 96 bln
+3. P009 | 491/Pid.Sus/2025/PN Kpn | 2026-02-02 | Sabu | vonis 72 bln
+4. P010 | 459/Pid.Sus/2025/PN Kpn | 2026-02-10 | Sabu | vonis 84 bln
+5. P011 | 509/Pid.Sus/2025/PN Kpn | 2026-02-10 | Sabu | vonis 72 bln
+6. P015 | 455/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 84 bln
+7. P017 | 518/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 96 bln
+8. P019 | 507/Pid.Sus/2025/PN Kpn | 2026-03-05 | Sabu | vonis 72 bln
+9. P021 | 504/Pid.Sus/2025/PN Kpn | 2026-03-10 | Sabu | vonis 108 bln
+10. P022 | 551/Pid.Sus/2025/PN Kpn | 2026-03-30 | Sabu | vonis 72 bln
+11. P023 | 14/Pid.Sus/2026/PN Kpn | 2026-04-06 | Sabu | vonis 96 bln
+12. P024 | 558/Pid.Sus/2025/PN Kpn | 2026-04-06 | Sabu | vonis 84 bln
+13. P029 | 557/Pid.Sus/2025/PN Kpn | 2026-04-13 | Sabu|Ekstasi | vonis 72 bln
+14. P030 | 48/Pid.Sus/2026/PN Kpn | 2026-04-16 | Sabu | vonis 72 bln
+15. P031 | 513/Pid.Sus/2025/PN Kpn | 2026-04-16 | Sabu|Ekstasi | vonis 60 bln
+16. P041 | 116/Pid.Sus/2026/PN Kpn | 2026-08-18 | Sabu | vonis 96 bln
+17. P102 | 102/Pid.Sus/2030/PN Kpn | 2030-01-01 | Sabu | vonis 60 bln
+Jumlah: 17
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: Jumlah perkara   : 50
+Rata-rata vonis  : 68.76 bulan
+Total denda      : Rp50400000000
+Distribusi jenis narkotika:
+  Sabu: 46
+  Ganja: 5
+  Ekstasi: 2
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: Urutan (1 = menaik, 2 = menurun) [1]: 1. P032 | 144/Pid.Sus/2026/PN Kpn | 2026-07-27 | Sabu | vonis 36 bln
+2. P034 | 138/Pid.Sus/2026/PN Kpn | 2026-07-28 | Sabu | vonis 36 bln
+3. P036 | 126/Pid.Sus/2026/PN Kpn | 2026-07-30 | Sabu | vonis 36 bln
+4. P043 | 194/Pid.Sus/2026/PN Kpn | 2026-08-20 | Sabu | vonis 36 bln
+5. P046 | 201/Pid.Sus/2026/PN Kpn | 2026-08-24 | Sabu | vonis 36 bln
+6. P047 | 156/Pid.Sus/2026/PN Kpn | 2026-09-01 | Sabu | vonis 36 bln
+7. P013 | 520/Pid.Sus/2025/PN Kpn | 2026-02-19 | Ganja | vonis 48 bln
+8. P027 | 22/Pid.Sus/2026/PN Kpn | 2026-04-09 | Sabu | vonis 48 bln
+9. P033 | 162/Pid.Sus/2026/PN Kpn | 2026-07-27 | Sabu | vonis 48 bln
+10. P035 | 139/Pid.Sus/2026/PN Kpn | 2026-07-28 | Sabu | vonis 48 bln
+11. P038 | 145/Pid.Sus/2026/PN Kpn | 2026-08-10 | Sabu | vonis 48 bln
+12. P039 | 132/Pid.Sus/2026/PN Kpn | 2026-08-11 | Sabu | vonis 48 bln
+13. P042 | 146/Pid.Sus/2026/PN Kpn | 2026-08-20 | Sabu | vonis 48 bln
+14. P045 | 182/Pid.Sus/2026/PN Kpn | 2026-08-24 | Sabu | vonis 48 bln
+15. P101 | 101/Pid.Sus/2030/PN Kpn | 2030-01-01 | Sabu | vonis 48 bln
+16. P028 | 17/Pid.Sus/2026/PN Kpn | 2026-04-13 | Sabu | vonis 60 bln
+17. P031 | 513/Pid.Sus/2025/PN Kpn | 2026-04-16 | Sabu|Ekstasi | vonis 60 bln
+18. P037 | 133/Pid.Sus/2026/PN Kpn | 2026-08-04 | Sabu | vonis 60 bln
+19. P040 | 110/Pid.Sus/2026/PN Kpn | 2026-08-18 | Sabu | vonis 60 bln
+20. P044 | 140/Pid.Sus/2026/PN Kpn | 2026-08-24 | Sabu | vonis 60 bln
+21. P048 | 185/Pid.Sus/2026/PN Kpn | 2026-09-01 | Sabu | vonis 60 bln
+22. P102 | 102/Pid.Sus/2030/PN Kpn | 2030-01-01 | Sabu | vonis 60 bln
+23. P002 | 426/Pid.Sus/2025/PN Kpn | 2026-01-05 | Sabu | vonis 72 bln
+24. P003 | 427/Pid.Sus/2025/PN Kpn | 2026-01-05 | Sabu | vonis 72 bln
+25. P005 | 463/Pid.Sus/2025/PN Kpn | 2026-01-12 | Sabu | vonis 72 bln
+26. P006 | 445/Pid.Sus/2025/PN Kpn | 2026-01-13 | Ganja | vonis 72 bln
+27. P009 | 491/Pid.Sus/2025/PN Kpn | 2026-02-02 | Sabu | vonis 72 bln
+28. P011 | 509/Pid.Sus/2025/PN Kpn | 2026-02-10 | Sabu | vonis 72 bln
+29. P018 | 526/Pid.Sus/2025/PN Kpn | 2026-02-26 | Sabu | vonis 72 bln
+30. P019 | 507/Pid.Sus/2025/PN Kpn | 2026-03-05 | Sabu | vonis 72 bln
+31. P022 | 551/Pid.Sus/2025/PN Kpn | 2026-03-30 | Sabu | vonis 72 bln
+32. P029 | 557/Pid.Sus/2025/PN Kpn | 2026-04-13 | Sabu|Ekstasi | vonis 72 bln
+33. P030 | 48/Pid.Sus/2026/PN Kpn | 2026-04-16 | Sabu | vonis 72 bln
+34. P103 | 103/Pid.Sus/2030/PN Kpn | 2030-01-01 | Ganja | vonis 72 bln
+35. P049 | 164/Pid.Sus/2026/PN Kpn | 2026-09-03 | Sabu | vonis 78 bln
+36. P004 | 478/Pid.Sus/2025/PN Kpn | 2026-01-08 | Sabu | vonis 84 bln
+37. P010 | 459/Pid.Sus/2025/PN Kpn | 2026-02-10 | Sabu | vonis 84 bln
+38. P014 | 454/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 84 bln
+39. P015 | 455/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 84 bln
+40. P020 | 556/Pid.Sus/2025/PN Kpn | 2026-03-09 | Sabu | vonis 84 bln
+41. P024 | 558/Pid.Sus/2025/PN Kpn | 2026-04-06 | Sabu | vonis 84 bln
+42. P008 | 490/Pid.Sus/2025/PN Kpn | 2026-02-02 | Sabu | vonis 96 bln
+43. P016 | 473/Pid.Sus/2025/PN Kpn | 2026-02-24 | Ganja | vonis 96 bln
+44. P017 | 518/Pid.Sus/2025/PN Kpn | 2026-02-24 | Sabu | vonis 96 bln
+45. P023 | 14/Pid.Sus/2026/PN Kpn | 2026-04-06 | Sabu | vonis 96 bln
+46. P026 | 528/Pid.Sus/2025/PN Kpn | 2026-04-07 | Sabu | vonis 96 bln
+47. P041 | 116/Pid.Sus/2026/PN Kpn | 2026-08-18 | Sabu | vonis 96 bln
+48. P021 | 504/Pid.Sus/2025/PN Kpn | 2026-03-10 | Sabu | vonis 108 bln
+49. P007 | 470/Pid.Sus/2025/PN Kpn | 2026-01-29 | Sabu | vonis 120 bln
+50. P012 | 464/Pid.Sus/2025/PN Kpn | 2026-02-12 | Sabu|Ganja | vonis 120 bln
+Jumlah: 50
+Perbandingan: 800, pergeseran: 753
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: Riwayat (terbaru di atas):
+  #14 URUT vonis menaik: 800 perbandingan, 753 pergeseran
+  #13 AGREGASI atas 50 putusan
+  #12 FILTER menghasilkan 17 putusan
+  #11 TAMBAH P103
+  #10 TAMBAH P102
+  #9 TAMBAH P101
+  #8 HAPUS P050 (pergeseran 0 elemen)
+  #7 HAPUS P025 (pergeseran 25 elemen)
+  #6 HAPUS P001 (pergeseran 49 elemen)
+  #5 CARI P999 tidak ditemukan (50 langkah)
+  #4 CARI P050 ditemukan di posisi 49 (50 langkah)
+  #3 CARI P025 ditemukan di posisi 24 (25 langkah)
+  #2 CARI P001 ditemukan di posisi 0 (1 langkah)
+  #1 IMPOR data\putusan-50.csv: 50 diterima, 0 ditolak
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: Ekspor hasil filter terakhir ke [output/hasil.csv]: Tersimpan: output/hasil.csv (17 putusan)
+
+=== Arsip Putusan Narkotika PN Kepanjen ===
+ 1. Impor CSV         6. Filter
+ 2. Tampil semua      7. Agregasi
+ 3. Tambah putusan    8. Urutkan menurut vonis
+ 4. Hapus putusan     9. Riwayat audit
+ 5. Cari             10. Ekspor
+ 0. Keluar
+Pilih menu: Selesai.

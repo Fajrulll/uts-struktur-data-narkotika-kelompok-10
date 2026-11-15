@@ -3,10 +3,6 @@
 Aplikasi Java untuk mengelola 50 putusan perkara narkotika Pengadilan Negeri Kepanjen
 dengan struktur data buatan sendiri (tanpa koleksi `java.util` sebagai struktur utama).
 
-> **Status:** kerangka repositori. Dataset dan provenance sudah ada; aplikasi Java, test,
-> dan struktur pilihan **belum** diimplementasikan. Bagian bertanda `TODO` diisi saat
-> fitur selesai.
-
 ## Identitas
 
 | | |
@@ -19,8 +15,76 @@ dengan struktur data buatan sendiri (tanpa koleksi `java.util` sebagai struktur 
 
 ## Struktur data pilihan
 
-TODO: isi setelah keputusan dibuat. Rujuk `docs/adr/0001-pemilihan-struktur-data.md`
-dan `docs/adr/0002-strategi-pencarian-dan-pengurutan.md`.
+- **Struktur utama: array dinamis** (`ArrayDinamis<T>`), tempat seluruh 50 objek `Putusan` disimpan.
+- **Struktur sekunder: stack** (`Stack<T>`), untuk riwayat audit operasi pengguna.
+
+Alasan, alternatif, kompleksitas, dan invariant ada di
+[ADR 0001](docs/adr/0001-pemilihan-struktur-data.md). Strategi pencarian dan pengurutan ada di
+[ADR 0002](docs/adr/0002-strategi-pencarian-dan-pengurutan.md). Trace manual operasi struktur
+data ada di [docs/trace/trace-manual.md](docs/trace/trace-manual.md).
+
+## Fitur
+
+| Menu | Fitur |
+|---|---|
+| 1 | Impor CSV: membaca 50 record, menolak record tidak valid atau duplikat tanpa menghentikan program |
+| 2 | Tampil ringkasan semua putusan menurut urutan struktur utama |
+| 3 | Tambah putusan (satu baris CSV 16 kolom) |
+| 4 | Hapus putusan menurut caseId |
+| 5 | Cari caseId atau nomor perkara, dengan laporan jumlah langkah |
+| 6 | Filter jenis narkotika, rentang berat, pasal terbukti, dan rentang vonis |
+| 7 | Agregasi: jumlah perkara, rata-rata vonis, total denda, distribusi jenis narkotika |
+| 8 | Urutkan menurut vonis (menaik atau menurun) dengan pencacah perbandingan dan pergeseran |
+| 9 | Riwayat audit (terbaru di atas) |
+| 10 | Ekspor hasil filter terakhir atau semua putusan ke CSV |
+
+## Prasyarat
+
+- JDK 21 atau lebih baru
+- Maven 3.9+
+
+## Build
+
+```bash
+mvn -q compile
+```
+
+## Test
+
+```bash
+mvn test
+```
+
+Hasil yang diharapkan: seluruh test lulus (`Failures: 0, Errors: 0`). Test yang memakai data asli
+dijalankan dari folder repositori karena membaca `data/putusan-50.csv`.
+
+## Menjalankan
+
+Jalankan dari folder repositori setelah `mvn compile`:
+
+```bash
+java -cp target/classes id.ac.umm.strukdat.Main
+```
+
+Contoh sesi:
+
+```
+Pilih menu: 1
+Berkas CSV [data/putusan-50.csv]:
+Impor selesai: 50 diterima, 0 ditolak. Total di arsip: 50
+Pilih menu: 5
+caseId atau nomor perkara: P050
+Ditemukan di posisi 49 setelah 50 langkah: P050 | 135/Pid.Sus/2026/PN Kpn | 2026-09-29 | Sabu | vonis 72 bln
+```
+
+Skenario lengkap (impor, cari, hapus awal/tengah/akhir, tambah tiga record, record tidak valid,
+filter gabungan, agregasi, urutan, riwayat, ekspor) ada di
+[docs/demo/skenario-input.txt](docs/demo/skenario-input.txt). Untuk menjalankannya dan menyimpan
+keluarannya (Windows):
+
+```
+cmd /c "java -cp target\classes id.ac.umm.strukdat.Main < docs\demo\skenario-input.txt > docs\demo\hasil-demo.txt"
+```
 
 ## Dataset
 
@@ -61,42 +125,21 @@ dan `docs/adr/0002-strategi-pencarian-dan-pengurutan.md`.
 - **Aturan berat** (`beratBarangBuktiGram`): jumlah berat netto/bersih narkotika yang
   tertulis pada amar barang bukti. Jika amar tidak mencantumkan berat narkotika, nilainya `0`.
   Angka berat dari dakwaan, keterangan saksi, atau hasil laboratorium **tidak** dipakai.
-  Rinciannya di `docs/adr/0003-aturan-berat-barang-bukti.md`.
+  Rinciannya di [ADR 0003](docs/adr/0003-aturan-berat-barang-bukti.md).
 - Status provenance: `verified` berarti nilai cocok dengan halaman PDF yang dikutip.
   Sebagian besar baris diverifikasi lewat pencocokan otomatis, bukan pembacaan manual
   satu per satu. Lihat `AI_USAGE.md`.
 
-## Prasyarat
-
-- JDK 21 atau lebih baru
-- Maven 3.9+
-
-## Build
-
-```bash
-mvn -q compile
-```
-
-## Test
-
-```bash
-mvn test
-```
-
-## Menjalankan
-
-TODO: isi perintah dan contoh setelah kelas `Main` dibuat.
-
 ## Struktur repositori
 
 ```
-src/main/java/        kode aplikasi
+src/main/java/        kode aplikasi (struktur, model, impor, layanan, Main)
 src/test/java/        test otomatis
 data/putusan-50.csv   dataset 50 putusan
 docs/data-provenance.csv
 docs/adr/             catatan keputusan arsitektur
 docs/trace/           trace manual struktur data
-docs/demo/            bukti demo
+docs/demo/            skenario dan bukti demo
 AI_USAGE.md           catatan penggunaan AI
 CONTRIBUTIONS.md      bukti kontribusi
 pom.xml
