@@ -17,3 +17,6 @@ Thumbs.db
 # Berkas sumber tidak boleh masuk repositori publik (berisi nama terdakwa asli)
 *.pdf
 work/
+
+# Hasil ekspor dari aplikasi
+output/
