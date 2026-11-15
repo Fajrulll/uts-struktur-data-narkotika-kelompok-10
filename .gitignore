@@ -1,0 +1,19 @@
+# Build
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Berkas sumber tidak boleh masuk repositori publik (berisi nama terdakwa asli)
+*.pdf
+work/
